@@ -1,0 +1,659 @@
+I saw an interesting add for a new car. | false
+I saw an interesting ad for a new car. | true
+If you ad three and four, you get seven. | false
+If you add three and four, you get seven. | true
+He was ailing from a cold. | true
+He ordered a pint of ail at the pub. | false
+He ordered a pint of ale at the pub. | true
+We need fresh heir to breathe. | false
+We need fresh air to breathe. | true
+She is the air to a vast estate. | false
+She is the heir to a vast estate. | true
+Awl the cookies were eaten. | false
+All the cookies were eaten. | true
+The cobbler used an all to make holes for the laces. | false
+The cobbler used an awl to make holes for the laces. | true
+Cameras were not aloud in the courtroom. | false
+Cameras were not allowed in the courtroom. | true
+She read the poem allowed to the class. | false
+She read the poem aloud to the class. | true
+They gave arms to the beggars on the street. | false
+They gave alms to the beggars on the street. | true
+The soldiers carried their alms into battle. | false
+The soldiers carried their arms into battle. | true
+She held the baby in her alms. | false
+She held the baby in her arms. | true
+They knelt before the alter to pray. | false
+They knelt before the altar to pray. | true
+She decided to altar her dress so it would fit better. | false
+She decided to alter her dress so it would fit better. | true
+The ant carried a crumb back to its nest. | true
+We visited my aren't over the holidays. | false
+We visited my aunt over the holidays. | true
+The electric ark between the two wires caused a bright flash. | false
+The electric arc between the two wires caused a bright flash. | true
+Noah’s Arc is a well-known story from the Bible. | false
+Noah’s Ark is a well-known story from the Bible. | true
+She eight breakfast before leaving for work. | false
+She ate breakfast before leaving for work. | true
+He cut the cake into ate equal pieces. | false
+He cut the cake into eight equal pieces. | true
+He used an augur to drill holes for the fence posts. | false
+He used an auger to drill holes for the fence posts. | true
+The auger predicted success for the upcoming battle. | false
+The augur predicted success for the upcoming battle. | true
+The warm weather augurs well for a good harvest this year. | true
+The doctor performed an oral examination. | false
+The doctor performed an aural examination. | true
+He passed the aural exam with flying colors. | false
+He passed the oral exam with flying colors. | true
+The poker table was covered in smooth green bays. | false
+The poker table was covered in smooth green baize. | true
+The coast was dotted with beautiful baize. | false
+The coast was dotted with beautiful bays. | true
+He was completely bawled by the age of thirty. | false
+He was completely bald by the age of thirty. | true
+The baby bald for hours. | false
+The baby bawled for hours. | true
+He kicked the bawl into the goal. | false
+He kicked the ball into the goal. | true
+The child began to ball when he dropped his ice cream. | false
+The child began to bawl when he dropped his ice cream. | true
+He wore a banned on his wedding ring finger. | false
+He wore a band on his wedding ring finger. | true
+Smoking is band in most restaurants. | false
+Smoking is banned in most restaurants. | true
+Shakespeare is often called the Barred of Avon. | false
+Shakespeare is often called the Bard of Avon. | true
+The door was bard to keep intruders out. | false
+The door was barred to keep intruders out. | true
+He walked bearfoot on the hot sand. | false
+He walked barefoot on the hot sand. | true
+The bridge couldn’t bare the weight of the heavy trucks. | false
+The bridge couldn’t bear the weight of the heavy trucks. | true
+Bears hibernate during the winter. | true
+The barren owned a vast estate in the countryside. | false
+The baron owned a vast estate in the countryside. | true
+Farmers avoided the baron lands. | false
+Farmers avoided the barren lands. | true
+Let it bee. | false
+Let it be. | true
+The be pollinated the flowers. | false
+The bee pollinated the flowers. | true
+We spent the day at the beech. | false
+We spent the day at the beach. | true
+The beach trees shaded the entire backyard. | false
+The beech trees shaded the entire backyard. | true
+She added beans to the chili for extra protein. | true
+I have bean to that restaurant before. | false
+I have been to that restaurant before. | true
+He ordered a pint of bier. | false
+He ordered a pint of beer. | true
+The pallbearers carried the beer out of the church. | false
+The pallbearers carried the bier out of the church. | true
+She picked fresh berries from the garden. | true
+We had to berry the dog in the backyard. | false
+We had to bury the dog in the backyard. | true
+The ship was in its birth at the harbor. | false
+The ship was in its berth at the harbor. | true
+They celebrated the berth of their first child. | false
+They celebrated the birth of their first child. | true
+The company build me for the services provided. | false
+The company billed me for the services provided. | true
+They plan to billed a new house next year. | false
+They plan to build a new house next year. | true
+The sky was a clear, bright blew. | false
+The sky was a clear, bright blue. | true
+The wind blue fiercely all night. | false
+The wind blew fiercely all night. | true
+He was board during the long lecture. | false
+He was bored during the long lecture. | true
+We nailed the bored across the broken window. | false
+We nailed the board across the broken window. | true
+She styled her hair in a tight brayed. | false
+She styled her hair in a tight braid. | true
+The donkey braid as we passed by the farm. | false
+The donkey brayed as we passed by the farm. | true
+The dish fell to the floor and broke. | true
+He hit the break when he saw the stop sign. | false
+He hit the brake when he saw the stop sign. | true
+She bruise a fresh pot of coffee every morning. | false
+She brews a fresh pot of coffee every morning. | true
+He had a large brews on his arm from where he bumped into the door. | false
+He had a large bruise on his arm from where he bumped into the door. | true
+She went shopping for her bridle gown. | false
+She went shopping for her bridal gown. | true
+He adjusted the bridal before mounting the horse. | false
+He adjusted the bridle before mounting the horse. | true
+She broached the subject of salary increases with her boss. | true
+She wore an antique broach on her lapel. | false
+She wore an antique brooch on her lapel. | true
+I need to by groceries for the week. | false
+I need to bye groceries for the week. | false
+I need to buy groceries for the week. | true
+The book was written buy a famous author. | false
+The book was written bye a famous author. | false
+The book was written by a famous author. | true
+The team had a buy in the first round of the playoffs. | false
+The team had a by in the first round of the playoffs. | false
+The team had a bye in the first round of the playoffs. | true
+London is the capital of the United Kingdom. | true
+The Capitol is an iconic building in the United States. | true
+They stored vintage wines in the cellar. | true
+The seller agreed to lower the price of the car. | true
+The government conducts a census every ten years. | true
+He had a sense that he was being watched. | true
+She had a bowl of serial for breakfast. | false
+She had a bowl of cereal for breakfast. | true
+The cereal number was printed on the back of the device. | false
+The serial number was printed on the back of the device. | true
+He added some chili to the recipe to make it spicier. | true
+The morning air was chilly. | true
+The choral performance was breathtaking. | true
+The divers explored the beautiful coral reef. | true
+She cited several studies in her report. | true
+The Grand Canyon is an incredible cite to behold. | false
+The Grand Canyon is an incredible site to behold. | false
+The Grand Canyon is an incredible sight to behold. | true
+They chose the cite for the new school. | false
+They chose the sight for the new school. | false
+They chose the site for the new school. | true
+He wore a shirt made of course fabric. | false
+He wore a shirt made of coarse fabric. | true
+She enrolled in a coarse to learn English. | false
+She enrolled in a course to learn English. | true
+The wine was a perfect compliment to the cheese. | false
+The wine was a perfect complement to the cheese. | true
+He gave her a complement on her dress. | false
+He gave her a compliment on her dress. | true
+The city counsel voted to approve the new law. | false
+The city council voted to approve the new law. | true
+She sought council from her mentor. | false
+She sought counsel from her mentor. | true
+A dear crossed the road in front of our car. | false
+A deer crossed the road in front of our car. | true
+My deer friend, I will miss you deerly. | false
+My dear friend, I will miss you dearly. | true
+The old tree finally died. | true
+The craftsman used a dye to create the jewelry. | false
+The craftsman used a die to create the jewelry. | true
+She decided to die her hair red. | false
+She decided to dye her hair red. | true
+He was very discrete about his plans to propose. | false
+He was very discreet about his plans to propose. | true
+The report outlined five discreet categories of disease. | false
+The report outlined five discrete categories of disease. | true
+The doh grazed quietly in the meadow. | false
+The dough grazed quietly in the meadow. | false
+The doe grazed quietly in the meadow. | true
+She rolled out the doe to make a pie crust. | false
+She rolled out the doh to make a pie crust. | false
+She rolled out the dough to make a pie crust. | true
+The project is finally dun | false
+The project is finally done. | true
+The done horse galloped across the field. | false
+The dun horse galloped across the field. | true
+The landlord dunned his tenants for the overdue rent. | true
+She completed the first draught of her novel. | false
+She completed the first draft of her novel. | true
+He felt a cold draft coming from the window. | false
+He felt a cold draught coming from the window. | true
+He felt a cold draft coming from the window. | false
+She took a long draught of water. | true
+The car has a duel exhaust system. | false
+The car has a dual exhaust system. | true
+The two knights faced each other in a dual to defend their honor. | false
+The two knights faced each other in a duel to defend their honor. | true
+She works hard to urn a living. | false
+She works hard to earn a living. | true
+The family placed the earn containing their grandfather’s ashes on the mantle. | false
+The family placed the urn containing their grandfather’s ashes on the mantle. | true
+The yew grazed in the field with her lambs. | false
+The you grazed in the field with her lambs. | false
+The ewe grazed in the field with her lambs. | true
+Are ewe going to the store today? | false
+Are yew going to the store today? | false
+Are you going to the store today? | true
+He walked father down the street. | false
+He walked farther down the street. | true
+His farther taught him how to ride a bike. | false
+His father taught him how to ride a bike. | true
+The tough interview questions didn’t phase her at all. | false
+The tough interview questions didn’t faze her at all. | true
+The project is in the planning faze. | false
+The project is in the planning phase. | true
+She filed the reports in the cabinet. | true
+The apothecary filled the file with a potion. | false
+The apothecary filled the phial with a potion. | true
+I fined it hard to believe he’s gone. | false
+I find it hard to believe he’s gone. | true
+I find it hard to believe he’s gone. | false
+The archaeologist made an important find. | true
+He was find for speeding. | false
+He was fined for speeding. | true
+The forest was populated with tall fur trees. | false
+The forest was populated with tall fir trees. | true
+The cat’s fir was silky and smooth. | false
+The cat’s fur was silky and smooth. | true
+The diamond had a tiny floor that lowered its value. | false
+The diamond had a tiny flaw that lowered its value. | true
+She dropped the glass, and it shattered on the flaw | false
+She dropped the glass, and it shattered on the floor. | true
+The dog was scratching because it had fleas. | true
+To escape the fire, they had to flea their home. | false
+To escape the fire, they had to flee their home. | true
+The birds flu south for the winter. | false
+The birds flue south for the winter. | false
+The birds flew south for the winter. | true
+She caught the flew and had to stay in bed for a week. | false
+She caught the flue and had to stay in bed for a week. | false
+She caught the flu and had to stay in bed for a week. | true
+The flew needs to be cleaned before we start using the fireplace again. | false
+The flu needs to be cleaned before we start using the fireplace again. | false
+The flue needs to be cleaned before we start using the fireplace again. | true
+He likes to flecks his muscles in the mirror after a workout. | false
+He likes to flex his muscles in the mirror after a workout. | true
+His beard had flex of gray in it. | false
+His beard had flecks of gray in it. | true
+She dusted the counter with flower before rolling out the dough. | false
+She dusted the counter with flour before rolling out the dough. | true
+The garden was full of beautiful flowers in the spring. | true
+She voted fore the new school policy. | false
+She voted four the new school policy. | false
+She voted for the new school policy. | true
+He has for siblings. | false
+He has fore siblings. | false
+He has four siblings. | true
+The forward was written by a famous author. | false
+The foreword was written by a famous author. | true
+He stepped foreword to volunteer. | false
+He stepped forward to volunteer. | true
+He stepped foreword to volunteer. | false
+She is always thinking forward to the next challenge. | true
+The old fought had thick walls to protect it from invaders. | false
+The old fort had thick walls to protect it from invaders. | true
+They fort bravely in the battle. | false
+They fought bravely in the battle. | true
+The fowl odor from the garbage was unbearable. | false
+The foul odor from the garbage was unbearable. | true
+The player fouled the ball during the game. | true
+Chickens, ducks, and turkeys are types of foul | false
+Chickens, ducks, and turkeys are types of fowl. | true
+The horse’s gate was smooth and easy to ride. | false
+The horse’s gait was smooth and easy to ride. | true
+She opened the gait to let the visitors into the courtyard. | false
+She opened the gate to let the visitors into the courtyard. | true
+He likes to gambol at the casino on weekends. | false
+He likes to gamble at the casino on weekends. | true
+The lambs were gamboling in the meadow. | true
+Scientists studied the jeans responsible for eye color. | false
+Scientists studied the genes responsible for eye color. | true
+She wore her favorite pair of genes to the concert. | false
+She wore her favorite pair of jeans to the concert. | true
+The matador was gored by the bull during the fight. | true
+They grew pumpkins and other gourds in their garden. | true
+She achieved grate success in her career. | false
+She achieved great success in her career. | true
+She used the greatr to great cheese for the pasta. | false
+She used the grater to grate cheese for the pasta. | true
+She used the greatr to great cheese for the pasta. | false
+He put more wood on the grate to stoke the fire. | true
+The old floorboards made a loud grown as he stepped on them. | false
+The old floorboards made a loud groan as he stepped on them. | true
+The puppies have groan into large dogs. | false
+The puppies have grown into large dogs. | true
+The majestic heart stood at the edge of the forest. | false
+The majestic hart stood at the edge of the forest. | true
+She listened to the steady beat of her hart. | false
+She listened to the steady beat of her heart. | true
+Did you here that noise last night? | false
+Did you hear that noise last night? | true
+Please come hear and look at this. | false
+Please come here and look at this. | true
+Her shoe rubbed against her heal and caused a blister. | false
+Her shoe rubbed against her he'll and caused a blister. | false
+Her shoe rubbed against her heel and caused a blister. | true
+The cut on his arm took a long time to heel. | false
+The cut on his arm took a long time to he'll. | false
+The cut on his arm took a long time to heal. | true
+High, how have you been? | false
+Hi, how have you been? | true
+The bird flew hi in the sky. | false
+The bird flew high in the sky. | true
+I saw hymn at the store yesterday. | false
+I saw him at the store yesterday. | true
+The congregation sang the him with great fervor. | false
+The congregation sang the hymn with great fervor. | true
+She had a tendency to horde old newspapers. | false
+She had a tendency to hoard old newspapers. | true
+A hoard of fans waited outside the concert hall. | false
+A horde of fans waited outside the concert hall. | true
+He dug a hole in the ground to plant the tree. | true
+She spent the whole day reading her new book. | true
+The holey site attracts thousands of pilgrims each year. | false
+The wholly site attracts thousands of pilgrims each year. | false
+The holy site attracts thousands of pilgrims each year. | true
+She was holey committed to the project. | false
+She was holy committed to the project. | false
+She was wholly committed to the project. | true
+The meeting lasted an our longer than expected. | false
+The meeting lasted an hour longer than expected. | true
+Hour house is at the end of the street. | false
+Our house is at the end of the street. | true
+I am going to the store. | true
+She has blue eyes. | true
+The car sat idol in the driveway. | false
+The car sat idle in the driveway. | true
+Many teenagers regard pop stars as their idols. | true
+The speaker’s rhetoric was meant to incite the crowd. | true
+Her analysis of the poem showed remarkable insight. | true
+She spent the morning kneading the dough for bread. | true
+I knead to buy new shoes for the trip. | false
+I need to buy new shoes for the trip. | true
+He new the answer to the question. | false
+He knew the answer to the question. | true
+She couldn’t wait to show her friends her knew dress. | false
+She couldn’t wait to show her friends her new dress. | true
+The night was honored for his bravery in battle. | false
+The knight was honored for his bravery in battle. | true
+The stars were clearly visible in the knight sky. | false
+The stars were clearly visible in the night sky. | true
+He tied a not in the rope to secure the boat to the dock. | false
+He tied a knot in the rope to secure the boat to the dock. | true
+I am knot going to the party tonight. | false
+I am not going to the party tonight. | true
+I no the answer to your question. | false
+I know the answer to your question. | true
+Know, I haven’t seen your keys anywhere. | false
+No, I haven’t seen your keys anywhere. | true
+We need to fix the leek in the roof before the next rainstorm. | false
+We need to fix the leak in the roof before the next rainstorm. | true
+She added chopped leeks to the potato soup for extra flavor. | true
+Taking painkillers can lesson the discomfort. | false
+Taking painkillers can lessen the discomfort. | true
+Today’s lessen is on the importance of regular exercise. | false
+Today’s lesson is on the importance of regular exercise. | true
+The town was protected by a series of strong levees. | true
+The government decided to levee a new tax on sugary drinks. | false
+The government decided to levy a new tax on sugary drinks. | true
+He spent the day playing on the lynx. | false
+He spent the day playing on the links. | true
+The links roamed silently through the snowy forest. | false
+The lynx roamed silently through the snowy forest. | true
+She took out a lone to pay for her education. | false
+She took out a loan to pay for her education. | true
+The loan wolf howled at the moon. | false
+The lone wolf howled at the moon. | true
+After the battle, the victors gathered the lute from the fallen. | false
+After the battle, the victors gathered the loot from the fallen. | true
+The musician strummed a melody on his loot. | false
+The musician strummed a melody on his lute. | true
+She maid a beautiful quilt by hand. | false
+She made a beautiful quilt by hand. | true
+The made cleaned the rooms every morning. | false
+The maid cleaned the rooms every morning. | true
+He received a package in the male today. | false
+He received a package in the mail today. | true
+The mail lion is known for its mane. | false
+The male lion is known for its mane. | true
+The mane issue was resolved by the committee. | false
+The main issue was resolved by the committee. | true
+The horse shook its main as it galloped across the field. | false
+The horse shook its mane as it galloped across the field. | true
+The grant was like manner from heaven for the struggling organization. | false
+The grant was like manna from heaven for the struggling organization. | true
+He was known for his polite manna. | false
+He was known for his polite manner. | true
+The martial commanded the troops during the parade. | false
+The marshal commanded the troops during the parade. | true
+Marshal arts require discipline and training. | false
+Martial arts require discipline and training. | true
+She wore a masque to the masquerade ball. | false
+She wore a mask to the masquerade ball. | true
+The court attended a lavish mask. | false
+The court attended a lavish masque. | true
+The bird tossed the fish down its more. | false
+The bird tossed the fish down its maw. | true
+Would you like some maw tea? | false
+Would you like some more tea? | true
+She won a meddle for her bravery. | false
+She won a medal for her bravery. | true
+I wish my neighbors would not medal in my affairs. | false
+I wish my neighbors would not meddle in my affairs. | true
+We will meat at the coffee shop at noon. | false
+We will mete at the coffee shop at noon. | false
+We will meet at the coffee shop at noon. | true
+The butcher offered a selection of meats for the barbecue. | true
+He mite go to the concert if he can find tickets. | false
+He might go to the concert if he can find tickets. | true
+Dust mites can cause allergic reactions in some people. | true
+The morning missed gave the forest an ethereal quality. | false
+The morning mist gave the forest an ethereal quality. | true
+He swung at the ball and mist. | false
+He swung at the ball and missed. | true
+A mousse crossed the road in front of us while we were driving through the forest. | false
+A moose crossed the road in front of us while we were driving through the forest. | true
+She made a delicious chocolate moose for dessert. | false
+She made a delicious chocolate mousse for dessert. | true
+He has been working out to build mussel. | false
+He has been working out to build muscle. | true
+Mussels are often cooked with garlic and white wine. | true
+There were nun left by the time I got to the bakery. | false
+There were none left by the time I got to the bakery. | true
+The none devoted her life to helping the poor. | false
+The nun devoted her life to helping the poor. | true
+He grabbed the awe and began to paddle the canoe. | false
+He grabbed the or and began to paddle the canoe. | false
+He grabbed the ore and began to paddle the canoe. | false
+He grabbed the oar and began to paddle the canoe. | true
+Do you prefer chocolate awe vanilla ice cream? | false
+Do you prefer chocolate oar vanilla ice cream? | false
+Do you prefer chocolate ore vanilla ice cream? | false
+Do you prefer chocolate or vanilla ice cream? | true
+Be careful not to overdo it at the gym and hurt yourself. | true
+The library book is overdue, and I need to return it. | true
+She filled the pale with water to mop the floor. | false
+She filled the pail with water to mop the floor. | true
+After feeling ill, her face turned pail. | false
+After feeling ill, her face turned pale. | true
+He was in a lot of pane after twisting his ankle. | false
+He was in a lot of pain after twisting his ankle. | true
+The baseball shattered the pain of glass. | false
+The baseball shattered the pane of glass. | true
+She bought a new pare of shoes. | false
+She bought a new pear of shoes. | false
+She bought a new pair of shoes. | true
+He enjoyed a ripe pair for dessert. | false
+He enjoyed a ripe pare for dessert. | false
+He enjoyed a ripe pear for dessert. | true
+The parade passed by the cheering crowds. | true
+In the past, people traveled by horse and carriage. | true
+She enjoyed the piece of the countryside. | false
+She enjoyed the peace of the countryside. | true
+He ate a peace of cake. | false
+He ate a piece of cake. | true
+They reached the peek of the mountain just before noon. | false
+They reached the peke of the mountain just before noon. | false
+They reached the pique of the mountain just before noon. | false
+They reached the peak of the mountain just before noon. | true
+She couldn’t resist a peak at her birthday present. | false
+She couldn’t resist a peke at her birthday present. | false
+She couldn’t resist a pique at her birthday present. | false
+She couldn’t resist a peek at her birthday present. | true
+She pressed the peddle to accelerate the car. | false
+She pressed the pedal to accelerate the car. | true
+He used to pedal fruits and vegetables from a street cart. | false
+He used to peddle fruits and vegetables from a street cart. | true
+The carpenter used a plain to smooth the wooden board. | false
+The carpenter used a plane to smooth the wooden board. | true
+She preferred plane black coffee without any sugar. | false
+She preferred plain black coffee without any sugar. | true
+The principle reason for his success is his dedication to work. | false
+The principal reason for his success is his dedication to work. | true
+She will not lie; it’s against her principles. | true
+His business venture generated a substantial prophet. | false
+His business venture generated a substantial profit. | true
+In the Old Testament, Isaiah is considered one of the major prophets. | true
+The read apple looked delicious. | false
+The red apple looked delicious. | true
+She reed the book in one sitting. | false
+She read the book in one sitting. | true
+You were rite to inform the authorities. | false
+You were wright to inform the authorities. | false
+You were write to inform the authorities. | false
+You were right to inform the authorities. | true
+Please right your name at the top of the paper. | false
+Please rite your name at the top of the paper. | false
+Please wright your name at the top of the paper. | false
+Please write your name at the top of the paper. | true
+He gave her a diamond wring as a sign of his love. | false
+He gave her a diamond ring as a sign of his love. | true
+She had to ring out her wet clothes after getting caught in the rain. | false
+She had to wring out her wet clothes after getting caught in the rain. | true
+She road her bike to work every day. | false
+She rode her bike to work every day. | true
+The rode to the city was lined with beautiful trees. | false
+The road to the city was lined with beautiful trees. | true
+He took on the roll of the villain in the play. | false
+He took on the role of the villain in the play. | true
+The ball began to role down the hill. | false
+The ball began to roll down the hill. | true
+The alarm clock failed to rows him from his deep sleep. | false
+The alarm clock failed to rouse him from his deep sleep. | true
+The teacher arranged the desks in neat rose. | false
+The teacher arranged the desks in neat rows. | true
+He climbed to the top wrung of the ladder to reach the book. | false
+He climbed to the top rung of the ladder to reach the book. | true
+She rung the water from the washcloth. | false
+She wrung the water from the washcloth. | true
+He stepped on a nail, and it pierced the soul of his shoe. | false
+He stepped on a nail, and it pierced the sole of his shoe. | true
+She believed her sole would find peace after this life. | false
+She believed her soul would find peace after this life. | true
+She bought sum candy for the movie. | false
+She bought some candy for the movie. | true
+The some of 5 and 7 is 12. | false
+The sum of 5 and 7 is 12. | true
+He was not her sought of person. | false
+He was not her sort of person. | true
+They sort shelter from the rain. | false
+They sought shelter from the rain. | true
+His stayed demeanor was well-known in the office. | false
+His staid demeanor was well-known in the office. | true
+Despite the storm, they staid at the campsite overnight. | false
+Despite the storm, they stayed at the campsite overnight. | true
+The rose had a long, thorny stork. | false
+The rose had a long, thorny stalk. | true
+The stalk delivered a new baby in the story. | false
+The stork delivered a new baby in the story. | true
+He couldn’t help but stair at the painting in awe. | false
+He couldn’t help but stare at the painting in awe. | true
+She ran up the stare to her room. | false
+She ran up the stair to her room. | true
+The car remained stationery in heavy traffic. | false
+The car remained stationary in heavy traffic. | true
+She went to the store to buy some stationary for her home office. | false
+She went to the store to buy some stationery for her home office. | true
+The burglar was caught attempting to steel a car. | false
+The burglar was caught attempting to steal a car. | true
+The bridge is reinforced with steal beams. | false
+The bridge is reinforced with steel beams. | true
+She climbed over the style to get into the field. | false
+She climbed over the stile to get into the field. | true
+The new building was praised for its modern stile. | false
+The new building was praised for its modern style. | true
+The son was shining brightly on the beach. | false
+The sun was shining brightly on the beach. | true
+They have one sun and two daughters. | false
+They have one son and two daughters. | true
+The dog wagged its tale happily. | false
+The dog wagged its tail happily. | true
+She told her children a bedtime tail about magical creatures. | false
+She told her children a bedtime tale about magical creatures. | true
+The teem practiced every evening after school. | false
+The team practiced every evening after school. | true
+The old house was teeming with spiders. | true
+He claims he’s been busier than ever. | true
+I was living in Spain back then. | true
+There house is at the end of the street. | false
+They'Re house is at the end of the street. | false
+Their house is at the end of the street. | true
+We are planning to go their next summer. | false
+We are planning to go they're next summer. | false
+We are planning to go there next summer. | true
+The king sat upon his thrown to address his subjects. | false
+The king sat upon his throne to address his subjects. | true
+The ball was throne with great force. | false
+The ball was thrown with great force. | true
+The fishermen set out as the tied was rising. | false
+The fishermen set out as the tide was rising. | true
+The game was tide at 3-3. | false
+The game was tied at 3-3. | true
+She walked too the station. | false
+She walked two the station. | false
+She walked to the station. | true
+He was driving to fast. | false
+He was driving two fast. | false
+He was driving too fast. | true
+They have to children. | false
+They have too children. | false
+They have two children. | true
+He stubbed his toe on the door frame. | true
+The broken-down car was toad to the nearest garage. | false
+The broken-down car was toed to the nearest garage. | false
+The broken-down car was towed to the nearest garage. | true
+Despite his vane attempts to impress her, she remained uninterested. | false
+Despite his vein attempts to impress her, she remained uninterested. | false
+Despite his vain attempts to impress her, she remained uninterested. | true
+The nurse inserted the needle into the patient’s vain to draw blood. | false
+The nurse inserted the needle into the patient’s vane to draw blood. | false
+The nurse inserted the needle into the patient’s vein to draw blood. | true
+The routines can vary from basic to extremely complicated. | true
+He was very much interested in the book. | true
+The baby’s wale could be heard across the hallway. | false
+The baby’s whale could be heard across the hallway. | false
+The baby’s wail could be heard across the hallway. | true
+Whales are known for their impressive breaches out of the water. | true
+It’s not good to waist food. | false
+It’s not good to waste food. | true
+She wore a belt around her waste to accentuate her figure. | false
+She wore a belt around her waist to accentuate her figure. | true
+He was looking for the quickest weigh to get to the airport. | false
+He was looking for the quickest whey to get to the airport. | false
+He was looking for the quickest way to get to the airport. | true
+Way the flour before adding it to the mixture. | false
+Whey the flour before adding it to the mixture. | false
+Weigh the flour before adding it to the mixture. | true
+After the illness, she felt very week. | false
+After the illness, she felt very weak. | true
+We’re going on vacation for a weak. | false
+We’re going on vacation for a week. | true
+The whether today is sunny and warm. | false
+The weather today is sunny and warm. | true
+He’s undecided weather to go or stay. | false
+He’s undecided whether to go or stay. | true
+Ware are you going? | false
+Wear are you going? | false
+Where are you going? | true
+She will ware her red dress to the party. | false
+She will where her red dress to the party. | false
+She will wear her red dress to the party. | true
+Witch types of music do you like? | false
+Which types of music do you like? | true
+The children dressed up as witches for Halloween. | true
+Who’s coming to the party tonight? | true
+Who'S coat is this hanging in the hallway? | false
+Whose coat is this hanging in the hallway? | true
+She one the race and received a gold medal. | false
+She won the race and received a gold medal. | true
+He had only won ticket to the event. | false
+He had only one ticket to the event. | true
+She said she wood meet us at the theater. | false
+She said she would meet us at the theater. | true
+They used would to build the fire. | false
+They used wood to build the fire. | true
+You’re going to be late if you don’t leave now. | true
+Is this yaw coat? | false
+Is this yore coat? | false
+Is this you're coat? | false
+Is this your coat? | true
